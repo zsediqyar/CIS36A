@@ -1,0 +1,2 @@
+Hello world
+This is a message from inside a file
